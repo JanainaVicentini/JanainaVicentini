@@ -1,14 +1,10 @@
 <h1 align="center">Olá 👋, 
-Me chmao Janaina Vicentin</h1>
+Me chamo Janaina Vicentin</h1>
 <h3 align="center">Apaixonada por qualidade e precisão, construí minha carreira como instrumentadora cirúrgica, onde desenvolvi ao longo de 10 anos de experiencia, habilidades essenciais como atenção aos detalhes, trabalho em equipe e capacidade de tomar decisões rápidas sob pressão. Agora, estou direcionando essa experiência para o mundo da tecnologia, trilhando meu caminho como Analista de QA.Sou formada pelo Bootcamp de desenvolvimento web da TripleTen Brasil , que é um curso de aproximadamente de 5 meses. Abrange assuntos como Design de Teste, Teste de Aplicativo Web , Teste de API , Automação de Testes , SQL. Além de envolver a conclusão de mais de 6 projetos com base nas melhores práticas do mercado.Tenho habilidades em detecção e relatórios de bugs, gerenciamento de casos de teste e metodologias (Scrum). Uso ferramentas de teste como Cypress, JIRA e Postman e tenho conhecimento de linguagens de script como JavaScript. Sou excelente em comunicação eficaz, resolução de problemas e atenção aos detalhes, e estou comprometido com a melhoria e o aprendizado contínuo. Meu objetivo é garantir a qualidade e a funcionalidade de aplicativos e sistemas.Com formação de Analista de QA e minha experiência de trabalho, trago uma abordagem analítica e detalhada ao processo de teste, projetando casos de teste para garantir que os produtos não atendam apenas aos requisitos técnicos, mas também estão alinhadas às necessidades do negócio.</h3>
 
-- 🔭 Atualmente estou trabalhando no **Autônomo**
-
-- 🌱 Atualmente estou aprendendo o **Curso de Analista de QA**
+- 🔭 Atualmente estou trabalhando como **Autônomo**
 
 - 👯 Quero colaborar em **Testes de API**
-
-- 💬 Pergunte-me sobre **testes,automação**
 
 - 📫 Como entrar em contato comigo **janainavicentin31@gmail.com**
 
