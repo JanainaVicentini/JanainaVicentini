@@ -6,7 +6,7 @@
 <h3>Abrange assuntos como Design de Teste,Teste de Aplicativo Web,Teste de API,Automação de Testes,SQL.Além de envolver a conclusão de mais de 6 projetos com base nas melhores práticas do mercado.
 <h3>Tenho habilidades em detecção e relatórios de bugs, gerenciamento de casos de teste e metodologias(Scrum).
 Uso ferramentas de teste como Cypress, JIRA e Postman e tenho conhecimento de linguagens de script como JavaScript.
-<h3>Sou excelente em comunicação eficaz,resolução de problemas e atenção aos detalhes, e estou comprometido com a melhoria e o aprendizado contínuo.Meu objetivo é garantir a qualidade e a funcionalidade de aplicativos e sistemas.
+<h3>Sou excelente em comunicação eficaz,resolução de problemas e atenção aos detalhes, e estou comprometido com a melhoria e o aprendizado contínuo.Meu objetivo é garantir a qualidade e a funcionalidade de aplicativos e sistemas, testes automatizados, gestão de defeitos e metodologias ágeis.
 <h3>Com formação de Analista de QA e minha experiência de trabalho, trago uma abordagem analítica e detalhada ao processo de teste projetando casos de teste para garantir que os produtos não atendam apenas aos requisitos técnicos, mas também estão alinhadas às necessidades do negócio.
 
 
