@@ -1,27 +1,28 @@
 <h1 align="center">Olá 👋
 <h1>Me chamo Janaina Vicentin</h1>
 <h3 align="center"><h3>
-<h3>Apaixonada por qualidade e precisão,construí minha carreira como,instrumentadora cirúrgica,onde desenvolvi ao longo de 10 anos de experiencia,habilidades essenciais como atenção aos detalhes,trabalho em equipe e capacidade de tomar decisões rápidas sob pressão.
-<h3>Agora, estou direcionando essa experiência para o mundo da tecnologia, trilhando meu caminho como Analista de QA.Sou formada pelo Bootcamp de desenvolvimento web da TripleTen Brasil ,que é um curso de aproximadamente de 5 meses.
-<h3>Abrange assuntos como Design de Teste,Teste de Aplicativo Web,Teste de API,Automação de Testes,SQL.Além de envolver a conclusão de mais de 6 projetos com base nas melhores práticas do mercado.
-<h3>Tenho habilidades em detecção e relatórios de bugs, gerenciamento de casos de teste e metodologias(Scrum).
-Uso ferramentas de teste como Cypress, JIRA e Postman e tenho conhecimento de linguagens de script como JavaScript.
-<h3>Sou excelente em comunicação eficaz,resolução de problemas e atenção aos detalhes, e estou comprometido com a melhoria e o aprendizado contínuo.Meu objetivo é garantir a qualidade e a funcionalidade de aplicativos e sistemas, testes automatizados, gestão de defeitos e metodologias ágeis.
-<h3>Com formação de Analista de QA e minha experiência de trabalho, trago uma abordagem analítica e detalhada ao processo de teste projetando casos de teste para garantir que os produtos não atendam apenas aos requisitos técnicos, mas também estão alinhadas às necessidades do negócio.
+<h3>Sou uma Analista de QA em transição de carreira, após 10 anos atuando como Instrumentadora Cirúrgica. Minha paixão por tecnologia,me levou a explorar mais sobre as ferramentas e de como iniciar uma carreira dentro deste mundo da tecnologia. Apaixonada por qualidade e precisão,construí minha carreira como,instrumentadora cirúrgica,onde desenvolvi experiencia e habilidades essenciais como atenção aos detalhes,trabalho em equipe e capacidade de tomar decisões rápidas sob pressão.
+<h3> Agora, estou direcionando essa experiência para o mundo da tecnologia, trilhando meu caminho como Analista de QA.Sou formada pelo Bootcamp de desenvolvimento web da TripleTen Brasil.
+<h3> 📊 Linguagens de Programação:
+<h3> Python.
+<h3> JavaScript.
+<h3> SQL.
+<h3>🧪 Testes e Qualidade de Software: Testes Manuais,Testes Automatizados,Testes de API , Testes de Performance, Testes de Banco de Dados.
+<h3> Desenvolvi  habilidades em detecção e relatórios de bugs, gerenciamento de casos de teste e metodologias(Scrum).
+<h3> Utilizo 🛠 Ferramentas de teste como Cypress, JIRA e Postman e tenho conhecimento de linguagens de script como JavaScript.
+<h3> Sou excelente em comunicação eficaz,resolução de problemas e atenção aos detalhes, e estou comprometido com a melhoria e o aprendizado contínuo.Meu objetivo é garantir a qualidade e a funcionalidade de aplicativos e sistemas, testes automatizados, gestão de defeitos e metodologias ágeis.
+<h3> Com formação de Analista de QA e minha experiência de trabalho, trago uma abordagem analítica e detalhada ao processo de teste projetando casos de teste para garantir que os produtos não atendam apenas aos requisitos técnicos, mas também estão alinhadas às necessidades do negócio.
+<h3> Entendo que a excelência de um produto reflete o empenho coletivo de toda a equipe.
 
-
-<h3>🔭 Atualmente trabalho como Autônoma
-
-<h3>👯 Quero colaborar em Testes de API
+<h3> Se você busca um profissional comprometido, detalhista e focado em garantir a excelência, estou à disposição para somar à sua equipe. Vamos conversar sobre como posso agregar valor aos seus projetos, e para sua empresa.
 
 <h3> 💡 Minhas Tecnologias
-Git • GitHub • HTML • SQL • Javascript •POSTMAN •
+Git • GitHub • HTML • SQL • Javascript • POSTMAN • Selenium WebDriver • VS COLDE
 
-<h3> 
 
 <h3> 📫 Como entrar em contato comigo:
- <h3>  janainavicentin31@gmail.com
-
+ <h3> E-mail: janainavicentin31@gmail.com
+<h3> LinkedIn: linkedin.com/in/janaina-vicentin
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janaina-vicentin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https ://www.linkedin.com/in/janaina-vicentin/" height="30" width="40" /></a>
