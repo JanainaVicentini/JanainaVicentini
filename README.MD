@@ -22,7 +22,6 @@ Git • GitHub • HTML • SQL • Javascript • POSTMAN • Selenium WebDrive
 
 <h3> 📫 Como entrar em contato comigo:
  <h3> E-mail: janainavicentin31@gmail.com
-<h3> LinkedIn: linkedin.com/in/janaina-vicentin
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janaina-vicentin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https ://www.linkedin.com/in/janaina-vicentin/" height="30" width="40" /></a>
